@@ -20,7 +20,7 @@ FarmEarth is set up using XAMPP server. Follow the instructions below to get sta
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/Maddy000777/FarmEarth.git
+   git clone https://github.com/Gokula1203/FarmEarth.git
 2. **Move to the Project Directory**:
    cd FarmEarth
 
